@@ -1,0 +1,9 @@
+[gd_resource type="Resource" script_class="AbilityUpgrade" load_steps=2 format=3 uid="uid://jd3f0iniowl0"]
+
+[ext_resource type="Script" path="res://resources/upgrades/ability_upgrade.gd" id="1_ygwdo"]
+
+[resource]
+script = ExtResource("1_ygwdo")
+ID = "staff_rate"
+name = "Staff Quickness"
+description = "Increases staff attack rate by 10%"
